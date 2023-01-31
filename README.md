@@ -28,11 +28,11 @@ Running the Project
 
 3.  Install dependencies.
 
-`npm install`
+`yarn`
 
 4.  Run the project.
 
-`npm run dev`
+`yarn dev`
 
 5.  Open your browser and navigate to `http://localhost:3000`
 
