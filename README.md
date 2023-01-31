@@ -20,25 +20,17 @@ Running the Project
 
 1.  Clone the repository.
 
-bashCopy code
-
 `git clone https://github.com/<your-username>/konva-playground.git`
 
 2.  Navigate to the project directory.
-
-bashCopy code
 
 `cd konva-playground`
 
 3.  Install dependencies.
 
-Copy code
-
 `npm install`
 
 4.  Run the project.
-
-Copy code
 
 `npm run dev`
 
@@ -53,7 +45,6 @@ Features
 *   Shapes are draggable, rotatable, and resizable
 *   Shape selection
 *   Canvas zoom changes
-*   Align shapes to top feature
-*   Arrow connections between shapes
+*   Align shapes to top and bottom feature
 *   Canvas selection
 *   Persistence of selections and coordinates after zoom.
