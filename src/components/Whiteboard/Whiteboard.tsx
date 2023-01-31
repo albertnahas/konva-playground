@@ -21,7 +21,6 @@ import {
   SELECTION_FILL,
   SELECTION_RECT_FILL,
 } from "../../constants"
-import { rectBoundingBox } from "../../helpers"
 
 const Whiteboard = () => {
   const rectangles = useSelector(shapesSelector)
